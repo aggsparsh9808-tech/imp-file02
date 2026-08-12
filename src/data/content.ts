@@ -1,5 +1,4 @@
 import { Language, TranslationStrings } from '../types';
-
 const heroImg = new URL('../assets/images/hero_delivery_partner_1786514494974.jpg', import.meta.url).href;
 const benefitsImg = new URL('../assets/images/benefits_team_group_1786514525161.jpg', import.meta.url).href;
 const videoManImg = new URL('../assets/images/testimonial_video_man_1786514545584.jpg', import.meta.url).href;
