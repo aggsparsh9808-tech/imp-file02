@@ -1,6 +1,6 @@
 import { Language, TranslationStrings } from '../types';
 
-import heroImg from '../assets/images/hero_delivery_partner_1786514494974.jpg';
+const heroImg = new URL('../assets/images/hero_delivery_partner_1786514494974.jpg', import.meta.url).href;
 import benefitsImg from '../assets/images/benefits_team_group_1786514525161.jpg';
 import videoManImg from '../assets/images/testimonial_video_man_1786514545584.jpg';
 import referGroupImg from '../assets/images/refer_earn_group_1786514570042.jpg';
