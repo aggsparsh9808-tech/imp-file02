@@ -1066,3 +1066,4 @@ export const TRANSLATIONS: Record<Language, TranslationStrings> = {
     },
   },
 };
+
