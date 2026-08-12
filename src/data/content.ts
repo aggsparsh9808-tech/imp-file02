@@ -1,11 +1,11 @@
 import { Language, TranslationStrings } from '../types';
 
-import heroImg from '../assets/images/hero_delivery_partner_1786514494974.jpg';
-import benefitsImg from '../assets/images/benefits_team_group_1786514525161.jpg';
-import videoManImg from '../assets/images/testimonial_video_man_1786514545584.jpg';
-import referGroupImg from '../assets/images/refer_earn_group_1786514570042.jpg';
-import avatarAyush from '../assets/images/avatar_ayush_1786514592455.jpg';
-import avatarAtish from '../assets/images/avatar_atish_1786514614711.jpg';
+import heroImg from '../assests/images/hero_delivery_partner_1786514494974.jpg';
+import benefitsImg from '../assests/images/benefits_team_group_1786514525161.jpg';
+import videoManImg from '../assests/images/testimonial_video_man_1786514545584.jpg';
+import referGroupImg from '../assests/images/refer_earn_group_1786514570042.jpg';
+import avatarAyush from '../assests/images/avatar_ayush_1786514592455.jpg';
+import avatarAtish from '../assests/images/avatar_atish_1786514614711.jpg';
 
 
 export const ASSETS = {
